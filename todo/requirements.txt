@@ -13,7 +13,6 @@ distlib==0.3.0
 Django==3.0.3
 dnspython==1.16.0
 filelock==3.0.12
-Flask==1.1.2
 future==0.18.2
 gym==0.17.1
 identify==1.4.25
